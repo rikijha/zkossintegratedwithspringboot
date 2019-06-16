@@ -1,0 +1,6 @@
+<zk xmlns:ca="client/attribute">
+    <div>
+    You should see this a secure page after a successful authentication.
+    </div>
+    <a href="/logout">logout</a>
+</zk>
